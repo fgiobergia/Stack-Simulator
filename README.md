@@ -1,6 +1,6 @@
 # Stack Simulator
 
-Nothing fancy here, just your average stack simulator. Useful for explaining what a stack is, how it works and for some basic reverse engineering/assembly programming sessions. 
+Nothing fancy here, just your average ncurses-based stack simulator. Useful for explaining what a stack is, how it works and for some basic reverse engineering/assembly programming sessions. 
 
 Compile:
 
